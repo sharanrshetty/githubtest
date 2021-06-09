@@ -3,3 +3,4 @@ typing option
 emoji
 vibrant
 dark
+colour
