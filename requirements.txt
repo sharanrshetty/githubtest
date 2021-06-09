@@ -2,3 +2,4 @@ this is chat application
 typing option
 emoji
 vibrant
+dark
